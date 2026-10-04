@@ -1,0 +1,41 @@
+{
+  "coverage_gap": [
+    "5.1",
+    "5.23",
+    "8.13"
+  ],
+  "missing_owner": [
+    "EV-006",
+    "EV-007",
+    "EV-058",
+    "EV-059"
+  ],
+  "overdue_request": [
+    "EV-001",
+    "EV-004",
+    "EV-041",
+    "EV-042",
+    "EV-046",
+    "EV-060"
+  ],
+  "stale_evidence": [
+    "EV-008",
+    "EV-016",
+    "EV-035",
+    "EV-043",
+    "EV-045"
+  ],
+  "duplicate_request_id": [
+    "EV-011",
+    "EV-013"
+  ],
+  "overdue_action": [
+    "F-07",
+    "F-10",
+    "F-12"
+  ],
+  "high_finding_no_owner": [
+    "F-01",
+    "F-11"
+  ]
+}

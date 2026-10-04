@@ -1,0 +1,63 @@
+request_id,control_id,evidence,owner_team,requested_on,due,status,last_reviewed
+EV-001,5.2,ticket sample,Security,2026-07-21,2026-08-30,requested,
+EV-002,5.2,test protocol,Security,2026-02-23,2026-06-19,accepted,2026-07-09
+EV-003,5.9,screenshot of configuration,IT Operations,2026-02-27,2026-08-30,accepted,2026-05-09
+EV-004,5.9,ticket sample,IT Operations,2026-07-18,2026-09-08,requested,
+EV-005,5.9,screenshot of configuration,IT Operations,2026-03-05,2026-08-08,accepted,2026-03-06
+EV-006,5.12,training completion report,,2026-07-28,2026-11-24,requested,
+EV-007,5.15,access review sign-off,,2026-04-27,2026-07-12,accepted,2026-02-28
+EV-008,5.15,ticket sample,IT Operations,2026-02-03,2025-07-18,accepted,2025-09-14
+EV-009,5.17,system export,IT Operations,2026-05-07,2026-08-14,accepted,2026-01-01
+EV-010,5.17,ticket sample,IT Operations,2026-04-11,2026-10-24,submitted,
+EV-011,5.17,screenshot of configuration,IT Operations,2026-08-11,2026-05-26,accepted,2026-04-14
+EV-012,5.18,meeting minutes,IT Operations,2026-05-26,2026-04-26,accepted,2026-07-06
+EV-013,5.19,meeting minutes,Legal and Privacy,2026-03-02,2026-10-08,requested,
+EV-014,5.19,test protocol,Legal and Privacy,2026-06-03,2026-11-12,submitted,
+EV-015,5.19,ticket sample,Legal and Privacy,2026-05-28,2026-03-25,accepted,2026-02-01
+EV-016,5.24,ticket sample,Security,2026-04-06,2025-06-26,accepted,2025-08-09
+EV-017,5.26,policy document,Security,2026-03-17,2026-05-02,accepted,2026-07-06
+EV-018,5.26,training completion report,Security,2026-07-02,2026-06-04,accepted,2026-01-02
+EV-019,5.26,access review sign-off,Security,2026-05-12,2026-11-11,requested,
+EV-020,5.29,meeting minutes,IT Operations,2026-06-16,2026-05-04,accepted,2026-04-10
+EV-021,5.29,meeting minutes,IT Operations,2026-08-17,2026-10-06,submitted,
+EV-022,5.29,training completion report,IT Operations,2026-03-24,2026-07-03,accepted,2026-08-22
+EV-023,5.30,test protocol,Platform Engineering,2026-07-27,2026-11-13,submitted,
+EV-024,5.30,access review sign-off,Platform Engineering,2026-02-15,2026-07-25,accepted,2026-02-17
+EV-025,5.31,ticket sample,Legal and Privacy,2026-02-23,2026-10-18,submitted,
+EV-026,5.31,access review sign-off,Legal and Privacy,2026-03-08,2026-05-17,accepted,2026-07-27
+EV-027,5.34,ticket sample,Legal and Privacy,2026-05-16,2026-04-27,accepted,2026-04-09
+EV-028,5.34,ticket sample,Legal and Privacy,2026-02-06,2026-04-02,accepted,2026-05-30
+EV-029,5.35,ticket sample,Security,2026-06-20,2026-11-30,requested,
+EV-030,5.35,ticket sample,Security,2026-07-17,2026-07-31,accepted,2026-07-11
+EV-031,5.35,policy document,Security,2026-02-26,2026-08-20,accepted,2026-04-18
+EV-032,6.1,meeting minutes,People,2026-06-10,2026-10-27,submitted,
+EV-033,6.1,ticket sample,People,2026-06-30,2026-11-23,submitted,
+EV-034,6.3,policy document,People,2026-06-21,2026-10-09,submitted,
+EV-035,6.3,ticket sample,People,2026-03-21,2025-07-05,accepted,2025-05-15
+EV-036,6.7,access review sign-off,IT Operations,2026-03-26,2026-11-10,submitted,
+EV-037,7.1,training completion report,Facilities,2026-02-04,2026-11-08,submitted,
+EV-038,7.1,policy document,Facilities,2026-04-12,2026-09-08,accepted,2026-03-03
+EV-039,7.4,system export,Facilities,2026-03-27,2026-07-04,accepted,2026-08-24
+EV-040,7.4,access review sign-off,Facilities,2026-07-16,2026-10-10,submitted,
+EV-041,7.4,screenshot of configuration,Facilities,2026-06-03,2026-09-13,submitted,
+EV-042,8.2,access review sign-off,IT Operations,2026-07-22,2026-09-16,requested,
+EV-043,8.2,system export,IT Operations,2026-08-23,2025-07-18,accepted,2025-06-05
+EV-044,8.5,training completion report,IT Operations,2026-08-07,2026-08-26,accepted,2026-09-10
+EV-045,8.5,meeting minutes,IT Operations,2026-05-06,2025-07-23,accepted,2025-09-02
+EV-046,8.7,policy document,IT Operations,2026-03-28,2026-09-28,submitted,
+EV-047,8.8,screenshot of configuration,Platform Engineering,2026-04-10,2026-10-22,requested,
+EV-048,8.8,meeting minutes,Platform Engineering,2026-05-27,2026-05-22,accepted,2026-02-14
+EV-049,8.9,screenshot of configuration,Platform Engineering,2026-05-11,2026-07-02,accepted,2026-03-01
+EV-050,8.9,test protocol,Platform Engineering,2026-08-01,2026-10-31,requested,
+EV-051,8.9,ticket sample,Platform Engineering,2026-04-10,2026-04-25,accepted,2026-05-04
+EV-052,8.15,meeting minutes,Platform Engineering,2026-05-16,2026-08-01,accepted,2026-08-06
+EV-053,8.16,meeting minutes,Security,2026-05-19,2026-03-28,accepted,2026-07-01
+EV-054,8.16,screenshot of configuration,Security,2026-08-30,2026-06-20,accepted,2026-09-01
+EV-055,8.24,test protocol,Platform Engineering,2026-02-23,2026-10-07,requested,
+EV-056,8.25,test protocol,Platform Engineering,2026-08-27,2026-03-22,accepted,2026-03-12
+EV-057,8.25,screenshot of configuration,Platform Engineering,2026-03-20,2026-05-05,accepted,2026-08-06
+EV-058,8.25,policy document,,2026-04-22,2026-06-19,accepted,2026-06-25
+EV-059,8.32,system export,,2026-03-16,2026-10-26,requested,
+EV-060,8.32,screenshot of configuration,Platform Engineering,2026-06-06,2026-09-11,requested,
+EV-011,5.17,duplicate entry,IT Operations,2026-08-11,2026-05-26,accepted,2026-04-14
+EV-013,5.19,duplicate entry,Legal and Privacy,2026-03-02,2026-10-08,requested,

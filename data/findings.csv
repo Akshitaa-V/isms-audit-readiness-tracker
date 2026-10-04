@@ -1,0 +1,13 @@
+finding_id,control_id,severity,raised_on,action,action_owner,due,status
+F-01,7.1,high,2026-06-06,Corrective action agreed with control owner,,2026-11-11,open
+F-02,8.15,low,2026-05-24,Corrective action agreed with control owner,Platform Engineering,2026-11-16,open
+F-03,5.2,low,2026-07-21,Corrective action agreed with control owner,Security,2026-10-26,open
+F-04,8.9,low,2026-06-29,Corrective action agreed with control owner,Platform Engineering,2026-11-24,in progress
+F-05,5.18,low,2026-07-04,Corrective action agreed with control owner,IT Operations,2026-11-21,in progress
+F-06,5.31,low,2026-06-16,Corrective action agreed with control owner,Legal and Privacy,2026-12-01,in progress
+F-07,8.15,low,2026-05-17,Corrective action agreed with control owner,Platform Engineering,2026-09-07,open
+F-08,5.12,medium,2026-06-30,Corrective action agreed with control owner,Security,2026-11-27,closed
+F-09,6.1,high,2026-07-05,Corrective action agreed with control owner,People,2026-10-25,closed
+F-10,5.19,high,2026-05-15,Corrective action agreed with control owner,Legal and Privacy,2026-09-10,open
+F-11,5.19,high,2026-06-23,Corrective action agreed with control owner,,2026-11-11,open
+F-12,5.2,low,2026-07-24,Corrective action agreed with control owner,Security,2026-08-31,open

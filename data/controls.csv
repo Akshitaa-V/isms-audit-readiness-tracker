@@ -1,0 +1,33 @@
+control_id,theme,description,nist_csf_function,owner_team
+5.1,Organizational,Security policy set approved and published,Govern,Security
+5.2,Organizational,Security roles and responsibilities defined,Govern,Security
+5.9,Organizational,Asset inventory kept up to date,Identify,IT Operations
+5.12,Organizational,Information classified by sensitivity,Identify,Security
+5.15,Organizational,Access control rules defined,Protect,IT Operations
+5.17,Organizational,Authentication secrets managed,Protect,IT Operations
+5.18,Organizational,"Access rights granted, reviewed and removed",Protect,IT Operations
+5.19,Organizational,Supplier security requirements agreed,Govern,Legal and Privacy
+5.23,Organizational,Cloud service use secured,Protect,Platform Engineering
+5.24,Organizational,Incident handling planned and prepared,Respond,Security
+5.26,Organizational,Incidents responded to as planned,Respond,Security
+5.29,Organizational,Security kept during disruption,Recover,IT Operations
+5.30,Organizational,ICT ready for business continuity,Recover,Platform Engineering
+5.31,Organizational,Legal and contractual requirements tracked,Govern,Legal and Privacy
+5.34,Organizational,Personal data protected (GDPR),Protect,Legal and Privacy
+5.35,Organizational,Independent review of the ISMS,Govern,Security
+6.1,People,Background screening before hiring,Protect,People
+6.3,People,Security awareness training delivered,Protect,People
+6.7,People,Remote working secured,Protect,IT Operations
+7.1,Physical,Office perimeter secured,Protect,Facilities
+7.4,Physical,Premises monitored,Detect,Facilities
+8.2,Technological,Privileged access restricted,Protect,IT Operations
+8.5,Technological,Secure authentication (MFA),Protect,IT Operations
+8.7,Technological,Malware protection in place,Protect,IT Operations
+8.8,Technological,Technical vulnerabilities managed,Identify,Platform Engineering
+8.9,Technological,Configurations baselined,Protect,Platform Engineering
+8.13,Technological,Backups taken and restore-tested,Recover,Platform Engineering
+8.15,Technological,Security logs produced and kept,Detect,Platform Engineering
+8.16,Technological,Monitoring for anomalies,Detect,Security
+8.24,Technological,Cryptography used as defined,Protect,Platform Engineering
+8.25,Technological,Secure development life cycle,Protect,Platform Engineering
+8.32,Technological,Changes controlled and approved,Protect,Platform Engineering

@@ -1,0 +1,26 @@
+priority,type,reference,control,owner_team,detail,status
+1,Control without evidence request,5.1,5.1,Security,No evidence requested for control 5.1 (Security policy set approved and published),open
+1,Control without evidence request,5.23,5.23,Platform Engineering,No evidence requested for control 5.23 (Cloud service use secured),open
+1,Control without evidence request,8.13,8.13,Platform Engineering,No evidence requested for control 8.13 (Backups taken and restore-tested),open
+1,High finding without action owner,F-01,7.1,to be agreed,High-severity finding F-01 has no action owner,open
+1,High finding without action owner,F-11,5.19,to be agreed,High-severity finding F-11 has no action owner,open
+1,Corrective action overdue,F-07,8.15,Platform Engineering,Corrective action for F-07 (low) was due on 2026-09-07,open
+1,Corrective action overdue,F-10,5.19,Legal and Privacy,Corrective action for F-10 (high) was due on 2026-09-10,open
+1,Corrective action overdue,F-12,5.2,Security,Corrective action for F-12 (low) was due on 2026-08-31,open
+1,Evidence request overdue,EV-001,5.2,Security,"EV-001 (ticket sample) is 32 days past due, status 'requested'",open
+2,Evidence request without owner,EV-006,5.12,to be agreed,EV-006 has no responsible team,open
+2,Evidence request without owner,EV-007,5.15,to be agreed,EV-007 has no responsible team,open
+2,Evidence request without owner,EV-058,8.25,to be agreed,EV-058 has no responsible team,open
+2,Evidence request without owner,EV-059,8.32,to be agreed,EV-059 has no responsible team,open
+2,Evidence request overdue,EV-004,5.9,IT Operations,"EV-004 (ticket sample) is 23 days past due, status 'requested'",open
+2,Evidence request overdue,EV-041,7.4,Facilities,"EV-041 (screenshot of configuration) is 18 days past due, status 'submitted'",open
+2,Evidence request overdue,EV-042,8.2,IT Operations,"EV-042 (access review sign-off) is 15 days past due, status 'requested'",open
+2,Evidence request overdue,EV-046,8.7,IT Operations,"EV-046 (policy document) is 3 days past due, status 'submitted'",open
+2,Evidence request overdue,EV-060,8.32,Platform Engineering,"EV-060 (screenshot of configuration) is 20 days past due, status 'requested'",open
+2,Evidence older than 12 months,EV-008,5.15,IT Operations,"EV-008 was last reviewed on 2025-09-14, more than 12 months ago",open
+2,Evidence older than 12 months,EV-016,5.24,Security,"EV-016 was last reviewed on 2025-08-09, more than 12 months ago",open
+2,Evidence older than 12 months,EV-035,6.3,People,"EV-035 was last reviewed on 2025-05-15, more than 12 months ago",open
+2,Evidence older than 12 months,EV-043,8.2,IT Operations,"EV-043 was last reviewed on 2025-06-05, more than 12 months ago",open
+2,Evidence older than 12 months,EV-045,8.5,IT Operations,"EV-045 was last reviewed on 2025-09-02, more than 12 months ago",open
+3,Duplicate request ID,EV-011,5.17,IT Operations,EV-011 appears 2 times in the register,open
+3,Duplicate request ID,EV-013,5.19,Legal and Privacy,EV-013 appears 2 times in the register,open
