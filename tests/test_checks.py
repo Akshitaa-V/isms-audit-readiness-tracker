@@ -99,7 +99,7 @@ def test_unowned_items_go_to_coordinator_first(issues):
 def test_follow_up_note_lists_every_item(issues):
     for team, items in group_by_team(issues).items():
         note = draft_note(team, items)
-        assert note.startswith(f"Hello {team},")
+        assert note.startswith("Hello ") and note.splitlines()[0].endswith(" team,")
         assert sum(1 for line in note.splitlines() if line.startswith("- [")) == len(items)
 
 

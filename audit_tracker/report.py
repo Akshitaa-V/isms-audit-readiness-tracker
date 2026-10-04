@@ -54,5 +54,5 @@ def write_markdown(reg, issues, as_of, path: Path):
             out.append(f"- [{i.control_id}] {i.detail} (owner: {i.owner_team or 'to be agreed'})")
     out += ["", "## Follow-up notes by team", ""]
     for team, items in group_by_team(issues).items():
-        out += [f"### {team} ({len(items)} items)", "", "```text", draft_note(team, items), "```", ""]
+        out += [f"### {team} ({len(items)} item{'s' if len(items) != 1 else ''})", "", "```text", draft_note(team, items), "```", ""]
     path.write_text("\n".join(out), encoding="utf-8")

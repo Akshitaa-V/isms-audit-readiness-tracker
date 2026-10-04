@@ -7,6 +7,7 @@ to agree who is responsible before anyone can be chased.
 from collections import defaultdict
 
 UNASSIGNED = "ISMS coordinator (owner to be agreed)"
+GREETING = {UNASSIGNED: "ISMS coordinator"}
 
 
 def group_by_team(issues):
@@ -18,7 +19,7 @@ def group_by_team(issues):
 
 def draft_note(team: str, items, audit_name: str = "the upcoming ISO/IEC 27001 surveillance audit") -> str:
     lines = [
-        f"Hello {team},",
+        f"Hello {GREETING.get(team, team)} team,",
         "",
         f"to prepare for {audit_name}, these items are still open on your side:",
         "",

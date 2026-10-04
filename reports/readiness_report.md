@@ -42,7 +42,7 @@ Register: 32 Annex A controls, 62 evidence requests, 12 audit findings.
 ### ISMS coordinator (owner to be agreed) (6 items)
 
 ```text
-Hello ISMS coordinator (owner to be agreed),
+Hello ISMS coordinator team,
 
 to prepare for the upcoming ISO/IEC 27001 surveillance audit, these items are still open on your side:
 
@@ -58,10 +58,10 @@ Could you let me know by Friday when each one will be done, or tell me if someth
 Thank you!
 ```
 
-### Facilities (1 items)
+### Facilities (1 item)
 
 ```text
-Hello Facilities,
+Hello Facilities team,
 
 to prepare for the upcoming ISO/IEC 27001 surveillance audit, these items are still open on your side:
 
@@ -75,7 +75,7 @@ Thank you!
 ### IT Operations (7 items)
 
 ```text
-Hello IT Operations,
+Hello IT Operations team,
 
 to prepare for the upcoming ISO/IEC 27001 surveillance audit, these items are still open on your side:
 
@@ -95,7 +95,7 @@ Thank you!
 ### Legal and Privacy (2 items)
 
 ```text
-Hello Legal and Privacy,
+Hello Legal and Privacy team,
 
 to prepare for the upcoming ISO/IEC 27001 surveillance audit, these items are still open on your side:
 
@@ -107,10 +107,10 @@ Could you let me know by Friday when each one will be done, or tell me if someth
 Thank you!
 ```
 
-### People (1 items)
+### People (1 item)
 
 ```text
-Hello People,
+Hello People team,
 
 to prepare for the upcoming ISO/IEC 27001 surveillance audit, these items are still open on your side:
 
@@ -124,7 +124,7 @@ Thank you!
 ### Platform Engineering (4 items)
 
 ```text
-Hello Platform Engineering,
+Hello Platform Engineering team,
 
 to prepare for the upcoming ISO/IEC 27001 surveillance audit, these items are still open on your side:
 
@@ -141,7 +141,7 @@ Thank you!
 ### Security (4 items)
 
 ```text
-Hello Security,
+Hello Security team,
 
 to prepare for the upcoming ISO/IEC 27001 surveillance audit, these items are still open on your side:
 
